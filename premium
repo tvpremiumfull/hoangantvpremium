@@ -1,7 +1,7 @@
 #EXTM3U HoangAn
 #EXTM3U url-tvg="http://gg.gg/coocaaE" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnj1ke2hdx2zdyv15" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
-
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
 
 
@@ -36,65 +36,8 @@ https://7pal.short.gy/digi4k
 
 
 
-#EXTINF:-1 group-title="🔴| B4TV" tvg-logo="http://live.bep40.shop/b4tv.png", B4TV (Kênh tổng hợp)
-http://103.75.186.169/b4tv/b4tv/5.m3u8
-#EXTINF:-1 group-title="🔴| B4TV" tvg-logo="http://live.bep40.shop/b4tv1.png", B4TV1 (Kênh bóng đá & thể thao)
-http://103.75.186.169/b4tv/b4tv/1.m3u8
-#EXTINF:-1 group-title="🔴| B4TV" tvg-logo="http://live.bep40.shop/b4tv2.png", B4TV2 (Kênh phim điện ảnh & series)
-http://103.75.186.169/b4tv/b4tv/2.m3u8
-#EXTINF:-1 group-title="🔴| B4TV" tvg-logo="http://live.bep40.shop/b4tv3.png", B4TV3 (Kênh sự kiện)
-http://103.75.186.169/b4tv/b4tv/3.m3u8
-#EXTINF:-1 group-title="🔴| B4TV" tvg-logo="http://live.bep40.shop/b4tv4.png", B4TV4 (Kênh âm nhạc & cuộc sống)
-http://103.75.186.169/b4tv/b4tv/4.m3u8
 
-#EXTINF:-1 group-title="🔴| B4TV" tvg-logo="http://logo.vagroup.pw/97.png", KSPORT1
-http://103.75.186.169/b4tv/b4tv/9.m3u8
-#EXTINF:-1 group-title="🔴| B4TV" tvg-logo="http://logo.vagroup.pw/98.png", KSPORT2
-http://103.75.186.169/b4tv/b4tv/6.m3u8
-#EXTINF:-1 group-title="🔴| B4TV" tvg-logo="http://logo.vagroup.pw/95.png", KCINE
-http://103.75.186.169/b4tv/b4tv/7.m3u8
-#EXTINF:-1 group-title="🔴| B4TV" tvg-logo="http://logo.vagroup.pw/96.png", KLIFE
-http://103.75.186.169/b4tv/b4tv/8.m3u8
-
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", KSPORT1 FPT1
-http://103.75.186.169:9981/stream/channelid/1438138218?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", KSPORT1 FPT2
-http://103.56.160.109:9981/stream/channelid/1695386463?auth=Pi16O6Z30PW9GMYquFAolpvulDCg&profile=pass
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", KSPORT1 MYTV 
-http://103.56.160.109:8989/4862/hls/playlist.m3u8
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", KSPORT1 360
-http://103.75.186.169:9981/stream/channelid/57013409?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", KSPORT2 FPT1
-http://103.75.186.169:8989/4865/hls/playlist.m3u8
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", KSPORT2 FPT2
-http://103.56.160.109:8989/4869/hls/playlist.m3u8
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", KSPORT2 MYTV
-http://103.56.160.109:8989/4865/hls/playlist.m3u8
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", KSPORT2 360
-http://103.75.186.169:9981/stream/channelid/1684891674?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", KCINE FPT1
-http://103.75.186.169:8989/4864/hls/playlist.m3u8
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", KCINE FPT2
-http://103.56.160.109:8989/4870/hls/playlist.m3u8
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", KCINE MYTV
-http://103.56.160.109:8989/4866/hls/playlist.m3u8
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", KLIFE FPT1
-http://103.75.186.169:8989/4867/hls/playlist.m3u8
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", KLIFE FPT2
-http://103.56.160.109:8989/4871/hls/playlist.m3u8
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", KLIFE MYTV
-http://103.75.186.169:9981/stream/channelid/692620033?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", KKIDS FPT1
-http://103.75.186.169:8989/4868/hls/playlist.m3u8
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", KKIDS FPT2
-http://103.56.160.109:8989/4872/hls/playlist.m3u8
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://logo.anttv.xyz/101.png", KLIVE1
-http://103.56.160.109:9981/stream/channelid/421224216?auth=Pi16O6Z30PW9GMYquFAolpvulDCg&profile=pass
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="https://logo.anttv.xyz/102.png", KLIVE2
-http://103.56.160.109:9981/stream/channelid/760948468?auth=Pi16O6Z30PW9GMYquFAolpvulDCg&profile=pass
-#EXTINF:-1 group-title="🔴| KPLUS" tvg-logo="http://logo.vagroup.pw/253.png", KLIVE3
-http://103.56.160.109:9981/stream/channelid/936574775?auth=Pi16O6Z30PW9GMYquFAolpvulDCg&profile=pass
-
+#-*-- http://plus.vthanhtivi.pw -*--#
 
 
 
