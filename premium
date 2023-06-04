@@ -1,8 +1,8 @@
 #EXTM3U HoangAn
 #EXTM3U url-tvg="http://gg.gg/coocaaE" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnj1ke2hdx2zdyv15" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
-
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="https://akkradet.github.io/IPTV-THAI/guide.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 
 
@@ -2376,604 +2376,603 @@ http://123.24.26.127:8889/naom.php?id=63309
 
 
 
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,1
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,1
 https://6395online.com:8443/live/lala91@msn.com/736984/1.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,2 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,2 
 https://6395online.com:8443/live/lala91@msn.com/736984/2.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,3
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,3
 https://6395online.com:8443/live/lala91@msn.com/736984/3.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,4 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,4 
 https://6395online.com:8443/live/lala91@msn.com/736984/4.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,5
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,5
 https://6395online.com:8443/live/lala91@msn.com/736984/5.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,6 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,6 
 https://6395online.com:8443/live/lala91@msn.com/736984/6.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,7 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,7 
 https://6395online.com:8443/live/lala91@msn.com/736984/7.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,8 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,8 
 https://6395online.com:8443/live/lala91@msn.com/736984/8.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,9 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,9 
 https://6395online.com:8443/live/lala91@msn.com/736984/9.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,10 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,10 
 https://6395online.com:8443/live/lala91@msn.com/736984/10.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,11 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,11 
 https://6395online.com:8443/live/lala91@msn.com/736984/11.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,12 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,12 
 https://6395online.com:8443/live/lala91@msn.com/736984/12.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,13 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,13 
 https://6395online.com:8443/live/lala91@msn.com/736984/13.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,14 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,14 
 https://6395online.com:8443/live/lala91@msn.com/736984/14.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,15 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,15 
 https://6395online.com:8443/live/lala91@msn.com/736984/15.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,16 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,16 
 https://6395online.com:8443/live/lala91@msn.com/736984/16.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,17 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,17 
 https://6395online.com:8443/live/lala91@msn.com/736984/17.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,18 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,18 
 https://6395online.com:8443/live/lala91@msn.com/736984/18.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,19 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,19 
 https://6395online.com:8443/live/lala91@msn.com/736984/19.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,20 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,20 
 https://6395online.com:8443/live/lala91@msn.com/736984/20.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,21 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,21 
 https://6395online.com:8443/live/lala91@msn.com/736984/21.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,22 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,22 
 https://6395online.com:8443/live/lala91@msn.com/736984/22.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,23 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,23 
 https://6395online.com:8443/live/lala91@msn.com/736984/23.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,24 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,24 
 https://6395online.com:8443/live/lala91@msn.com/736984/24.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,25 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,25 
 https://6395online.com:8443/live/lala91@msn.com/736984/25.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,26 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,26 
 https://6395online.com:8443/live/lala91@msn.com/736984/26.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,27 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,27 
 https://6395online.com:8443/live/lala91@msn.com/736984/27.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,28 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,28 
 https://6395online.com:8443/live/lala91@msn.com/736984/28.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,29 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,29 
 https://6395online.com:8443/live/lala91@msn.com/736984/29.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,30 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,30 
 https://6395online.com:8443/live/lala91@msn.com/736984/30.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,31 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,31 
 https://6395online.com:8443/live/lala91@msn.com/736984/31.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,32 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,32 
 https://6395online.com:8443/live/lala91@msn.com/736984/32.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,33 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,33 
 https://6395online.com:8443/live/lala91@msn.com/736984/33.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,34 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,34 
 https://6395online.com:8443/live/lala91@msn.com/736984/34.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,35 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,35 
 https://6395online.com:8443/live/lala91@msn.com/736984/35.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,36 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,36 
 https://6395online.com:8443/live/lala91@msn.com/736984/36.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,37 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,37 
 https://6395online.com:8443/live/lala91@msn.com/736984/37.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,38 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,38 
 https://6395online.com:8443/live/lala91@msn.com/736984/38.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,39 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,39 
 https://6395online.com:8443/live/lala91@msn.com/736984/39.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,40 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,40 
 https://6395online.com:8443/live/lala91@msn.com/736984/40.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,41 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,41 
 https://6395online.com:8443/live/lala91@msn.com/736984/41.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,42 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,42 
 https://6395online.com:8443/live/lala91@msn.com/736984/42.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,43 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,43 
 https://6395online.com:8443/live/lala91@msn.com/736984/43.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,44 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,44 
 https://6395online.com:8443/live/lala91@msn.com/736984/44.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,45 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,45 
 https://6395online.com:8443/live/lala91@msn.com/736984/45.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,46 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,46 
 https://6395online.com:8443/live/lala91@msn.com/736984/46.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,47 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,47 
 https://6395online.com:8443/live/lala91@msn.com/736984/47.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,48 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,48 
 https://6395online.com:8443/live/lala91@msn.com/736984/48.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,49 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,49 
 https://6395online.com:8443/live/lala91@msn.com/736984/49.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,50 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,50 
 https://6395online.com:8443/live/lala91@msn.com/736984/50.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,51 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,51 
 https://6395online.com:8443/live/lala91@msn.com/736984/51.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,52 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,52 
 https://6395online.com:8443/live/lala91@msn.com/736984/52.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,53 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,53 
 https://6395online.com:8443/live/lala91@msn.com/736984/53.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,54 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,54 
 https://6395online.com:8443/live/lala91@msn.com/736984/54.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,55 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,55 
 https://6395online.com:8443/live/lala91@msn.com/736984/55.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,56 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,56 
 https://6395online.com:8443/live/lala91@msn.com/736984/56.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,57 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,57 
 https://6395online.com:8443/live/lala91@msn.com/736984/57.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,58 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,58 
 https://6395online.com:8443/live/lala91@msn.com/736984/58.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,59 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,59 
 https://6395online.com:8443/live/lala91@msn.com/736984/59.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,60 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,60 
 https://6395online.com:8443/live/lala91@msn.com/736984/60.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,61 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,61 
 https://6395online.com:8443/live/lala91@msn.com/736984/61.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,62 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,62 
 https://6395online.com:8443/live/lala91@msn.com/736984/62.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,63 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,63 
 https://6395online.com:8443/live/lala91@msn.com/736984/63.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,64 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,64 
 https://6395online.com:8443/live/lala91@msn.com/736984/64.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,65 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,65 
 https://6395online.com:8443/live/lala91@msn.com/736984/65.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,66 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,66 
 https://6395online.com:8443/live/lala91@msn.com/736984/66.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,67 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,67 
 https://6395online.com:8443/live/lala91@msn.com/736984/67.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,68 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,68 
 https://6395online.com:8443/live/lala91@msn.com/736984/68.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,69 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,69 
 https://6395online.com:8443/live/lala91@msn.com/736984/69.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,70 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,70 
 https://6395online.com:8443/live/lala91@msn.com/736984/70.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,71 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,71 
 https://6395online.com:8443/live/lala91@msn.com/736984/71.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,72 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,72 
 https://6395online.com:8443/live/lala91@msn.com/736984/72.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,73 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,73 
 https://6395online.com:8443/live/lala91@msn.com/736984/73.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,74 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,74 
 https://6395online.com:8443/live/lala91@msn.com/736984/74.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,75 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,75 
 https://6395online.com:8443/live/lala91@msn.com/736984/75.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,76 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,76 
 https://6395online.com:8443/live/lala91@msn.com/736984/76.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,77 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,77 
 https://6395online.com:8443/live/lala91@msn.com/736984/77.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,78 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,78 
 https://6395online.com:8443/live/lala91@msn.com/736984/78.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,79 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,79 
 https://6395online.com:8443/live/lala91@msn.com/736984/79.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,80 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,80 
 https://6395online.com:8443/live/lala91@msn.com/736984/80.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,81 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,81 
 https://6395online.com:8443/live/lala91@msn.com/736984/81.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,82 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,82 
 https://6395online.com:8443/live/lala91@msn.com/736984/82.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,83 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,83 
 https://6395online.com:8443/live/lala91@msn.com/736984/83.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,84 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,84 
 https://6395online.com:8443/live/lala91@msn.com/736984/84.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,85 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,85 
 https://6395online.com:8443/live/lala91@msn.com/736984/85.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,86 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,86 
 https://6395online.com:8443/live/lala91@msn.com/736984/86.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,87 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,87 
 https://6395online.com:8443/live/lala91@msn.com/736984/87.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,88 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,88 
 https://6395online.com:8443/live/lala91@msn.com/736984/88.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,89 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,89 
 https://6395online.com:8443/live/lala91@msn.com/736984/89.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,90 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,90 
 https://6395online.com:8443/live/lala91@msn.com/736984/90.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Thai PBS 3 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Thai PBS 3 
 https://6395online.com:8443/live/lala91@msn.com/736984/91.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,92 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,92 
 https://6395online.com:8443/live/lala91@msn.com/736984/92.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,93 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,93 
 https://6395online.com:8443/live/lala91@msn.com/736984/93.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,94 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,94 
 https://6395online.com:8443/live/lala91@msn.com/736984/94.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,95 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,95 
 https://6395online.com:8443/live/lala91@msn.com/736984/95.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,TNN 16 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,TNN 16 
 https://6395online.com:8443/live/lala91@msn.com/736984/96.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,97 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,97 
 https://6395online.com:8443/live/lala91@msn.com/736984/97.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,98 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,98 
 https://6395online.com:8443/live/lala91@msn.com/736984/98.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,99 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,99 
 https://6395online.com:8443/live/lala91@msn.com/736984/99.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,100 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,100 
 https://6395online.com:8443/live/lala91@msn.com/736984/100.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,101 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,101 
 https://6395online.com:8443/live/lala91@msn.com/736984/101.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,102 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,102 
 https://6395online.com:8443/live/lala91@msn.com/736984/102.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True 4U 24  
+#EXTINF:0 tvg-id="True4U.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True 4U 24  
 https://6395online.com:8443/live/lala91@msn.com/736984/103.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,104 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,104 
 https://6395online.com:8443/live/lala91@msn.com/736984/104.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,105 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,105 
 https://6395online.com:8443/live/lala91@msn.com/736984/105.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,106 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,106 
 https://6395online.com:8443/live/lala91@msn.com/736984/106.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,107 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,107 
 https://6395online.com:8443/live/lala91@msn.com/736984/107.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,108 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,108 
 https://6395online.com:8443/live/lala91@msn.com/736984/108.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,109 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,109 
 https://6395online.com:8443/live/lala91@msn.com/736984/109.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,110 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,110 
 https://6395online.com:8443/live/lala91@msn.com/736984/110.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,111 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,111 
 https://6395online.com:8443/live/lala91@msn.com/736984/111.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,112 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,112 
 https://6395online.com:8443/live/lala91@msn.com/736984/112.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,113 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,113 
 https://6395online.com:8443/live/lala91@msn.com/736984/113.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,114 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,114 
 https://6395online.com:8443/live/lala91@msn.com/736984/114.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,115 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,115 
 https://6395online.com:8443/live/lala91@msn.com/736984/115.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,116 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,116 
 https://6395online.com:8443/live/lala91@msn.com/736984/116.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,117 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,117 
 https://6395online.com:8443/live/lala91@msn.com/736984/117.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,118 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,118 
 https://6395online.com:8443/live/lala91@msn.com/736984/118.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,119 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,119 
 https://6395online.com:8443/live/lala91@msn.com/736984/119.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,120 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,120 
 https://6395online.com:8443/live/lala91@msn.com/736984/120.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Chinese 
+#EXTINF:0 tvg-id="TrueChineseMore.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Chinese 
 https://6395online.com:8443/live/lala91@msn.com/736984/121.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Korian 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Korian 
 https://6395online.com:8443/live/lala91@msn.com/736984/122.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Asian
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,123 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Asian
 https://6395online.com:8443/live/lala91@msn.com/736984/123.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,124 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,124 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/124.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,125 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,125 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/125.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,126 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,126 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/126.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,127 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,127 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/127.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,128 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,128 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/128.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,AXN (Thailand)
+#EXTINF:0 tvg-id="AXNHDThailand.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,AXN (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/129.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Cinemax MAX (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Cinemachi MAX (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/130.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Paramount Network (Thailand)
+#EXTINF:0 tvg-id="ParamountNetwork.sg" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Paramount Network (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/131.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,KMTV (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,KMTV (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/132.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,HBO (Thailand) 
+#EXTINF:0 tvg-id="HBO.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,HBO (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/133.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,HBO Hits (Thailand)
+#EXTINF:0 tvg-id="HBOHits.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,HBO Hits (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/134.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,HBO signature (Thailand)
+#EXTINF:0 tvg-id="HBOSignature.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,HBO signature (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/135.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,HBO Family (Thailand)
+#EXTINF:0 tvg-id="HBOFamily.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,HBO Family (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/136.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,138
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,138
 https://6395online.com:8443/live/lala91@msn.com/736984/137.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Cinemax Thailand
+#EXTINF:0 tvg-id="Cinemax.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Cinemax Thailand
 https://6395online.com:8443/live/lala91@msn.com/736984/138.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,ROCK Entertaiment (Thailand)
+#EXTINF:0 tvg-id="RockExtreme.sg" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,ROCK Entertaiment (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/139.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,ROCK Action (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,ROCK Action (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/140.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True ThaiFilm (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True ThaiFilm (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/141.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Film1 (Thailand)
+#EXTINF:0 tvg-id="TrueFilmHD.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Film1 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/142.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Film2 (Thailand)
+#EXTINF:0 tvg-id="TrueFilmHD2.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Film2 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/143.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,144 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,144 
 https://6395online.com:8443/live/lala91@msn.com/736984/144.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Mono29 PLUS+ (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Mono29 PLUS+ (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/145.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Siries (Thailand)
+#EXTINF:0 tvg-id="TrueSeries.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Siries (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/146.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Film Asia (Thailand)
+#EXTINF:0 tvg-id="TrueFilmAsia.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Film Asia (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/147.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Movie Hit (Thailand)
+#EXTINF:0 tvg-id="TrueMovieHits.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Movie Hit (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/148.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,149
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,149
 https://6395online.com:8443/live/lala91@msn.com/736984/149.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Film TVB (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Film TVB (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/150.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,151
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,151
 https://6395online.com:8443/live/lala91@msn.com/736984/151.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , True OCCM (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , True OCCM (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/152.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Film CTB (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Film CTB (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/153.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,154 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,154 
 https://6395online.com:8443/live/lala91@msn.com/736984/154.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Channel 8
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Channel 8
 https://6395online.com:8443/live/lala91@msn.com/736984/155.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,156 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,156 
 https://6395online.com:8443/live/lala91@msn.com/736984/156.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,157 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,157 
 https://6395online.com:8443/live/lala91@msn.com/736984/157.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , Film 7 Flix (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , Film 7 Flix (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/158.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,159 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,159 
 https://6395online.com:8443/live/lala91@msn.com/736984/159.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,160 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,160 
 https://6395online.com:8443/live/lala91@msn.com/736984/160.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , TV BOX (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , TV BOX (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/161.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,AISPLAY Beinsport 2 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,AISPLAY Beinsport 2 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/162.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , Film (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , Film (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/163.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,164 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,164 
 https://6395online.com:8443/live/lala91@msn.com/736984/164.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,165 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,165 
 https://6395online.com:8443/live/lala91@msn.com/736984/165.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,166 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,166 
 https://6395online.com:8443/live/lala91@msn.com/736984/166.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , Gem (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , Gem (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/167.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,168 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,168 
 https://6395online.com:8443/live/lala91@msn.com/736984/168.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,169 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,169 
 https://6395online.com:8443/live/lala91@msn.com/736984/169.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,170 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,170 
 https://6395online.com:8443/live/lala91@msn.com/736984/170.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Box Film (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Box Film (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/171.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , Cartoon CN (Thailand)
+#EXTINF:0 tvg-id="CartoonNetwork.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Cartoon CN (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/172.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Bongmerang (Thailand)
+#EXTINF:0 tvg-id="Boomerang.sg" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Bongmerang (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/173.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Nick JR (Thailand)
+#EXTINF:0 tvg-id="NickJr.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Nick JR (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/174.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Nickclodeon
+#EXTINF:0 tvg-id="Nickelodeon.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Nickclodeon
 https://6395online.com:8443/live/lala91@msn.com/736984/175.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,DreamWork (Thailand)
+#EXTINF:0 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,DreamWork (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/176.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,177 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,177 
 https://6395online.com:8443/live/lala91@msn.com/736984/177.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Cartoon Club (Thailand)
+#EXTINF:0 tvg-id="CartoonClub.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Cartoon Club (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/178.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,JUMP (Thailand)
+#EXTINF:0 tvg-id="TrueSparkJump.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,JUMP (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/179.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,PLAY (Thailand)
+#EXTINF:0 tvg-id="TrueSparkPlay.th" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,PLAY (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/180.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,181 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,181 
 https://6395online.com:8443/live/lala91@msn.com/736984/181.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Premier 1 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Premier 1 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/182.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,183 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,183 
 https://6395online.com:8443/live/lala91@msn.com/736984/183.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,184 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,184 
 https://6395online.com:8443/live/lala91@msn.com/736984/184.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,185 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,185 
 https://6395online.com:8443/live/lala91@msn.com/736984/185.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,186 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,186 
 https://6395online.com:8443/live/lala91@msn.com/736984/186.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,187 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,187 
 https://6395online.com:8443/live/lala91@msn.com/736984/187.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Premier 1 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Premier 1 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/188.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,189 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,189 
 https://6395online.com:8443/live/lala91@msn.com/736984/189.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,190 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,190 
 https://6395online.com:8443/live/lala91@msn.com/736984/190.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,191 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,191 
 https://6395online.com:8443/live/lala91@msn.com/736984/191.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,192 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,192 
 https://6395online.com:8443/live/lala91@msn.com/736984/192.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,193 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,193 
 https://6395online.com:8443/live/lala91@msn.com/736984/193.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Premier 1 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Premier 1 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/194.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,195 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,195 
 https://6395online.com:8443/live/lala91@msn.com/736984/195.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Premier 1 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Premier 1 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/196.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,197 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,197 
 https://6395online.com:8443/live/lala91@msn.com/736984/197.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , True Premier 2 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , True Premier 2 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/198.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Premier 3 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Premier 3 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/199.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Premier 4 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Premier 4 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/200.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Premier 5 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Premier 5 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/201.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Bein Sport 1 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Bein Sport 1 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/202.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Bein Sport 1 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Bein Sport 1 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/203.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,AISPLAY Bein Sport 2 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,AISPLAY Bein Sport 2 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/204.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Bein Sport 3 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Bein Sport 3 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/205.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Sport 1 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Sport 1 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/206.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Sport 2 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Sport 2 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/207.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Sport 3 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Sport 3 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/208.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Sport 4 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Sport 4 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/209.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Sport 5 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Sport 5 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/210.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Sport 7 SPOTV (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Sport 7 SPOTV (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/211.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Tennis (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Tennis (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/212.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,213 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,213 
 https://6395online.com:8443/live/lala91@msn.com/736984/213.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Sport 1 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Sport 1 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/214.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,215 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,215 
 https://6395online.com:8443/live/lala91@msn.com/736984/215.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Vision 1 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Vision 1 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/216.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Vision 2 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True Vision 2 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/217.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,218 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,218 
 https://6395online.com:8443/live/lala91@msn.com/736984/218.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,SPOTV 1 (Thailand)
+#EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,SPOTV 1 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/219.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,SPOTV 2 (Thailand) 
+#EXTINF:0 tvg-id="SPOTV2.kr" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,SPOTV 2 (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/220.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,221 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,221 
 https://6395online.com:8443/live/lala91@msn.com/736984/221.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,222 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,222 
 https://6395online.com:8443/live/lala91@msn.com/736984/222.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Bein Sport 2 (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Bein Sport 2 (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/223.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Bein Sport 2 (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Bein Sport 2 (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/224.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,225 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,225 
 https://6395online.com:8443/live/lala91@msn.com/736984/225.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , ONE HES (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , ONE HES (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/226.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,TOP FIGNT!! (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,TOP FIGNT!! (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/227.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,HiHD Sport (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,HiHD Sport (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/228.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,World WTB (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,World WTB (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/229.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,230 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,230 
 https://6395online.com:8443/live/lala91@msn.com/736984/230.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,T Sport 7 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,T Sport 7 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/231.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,3BB Sport 1 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,3BB Sport 1 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/232.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,WWE (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,WWE (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/233.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sky Sport F1 (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sky Sport F1 (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/234.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sky Sport Main Event (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sky Sport Main Event (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/235.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sport (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sport (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/236.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sky Sport gold (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sky Sport gold (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/237.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sky Sport Primer League (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sky Sport Primer League (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/238.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sky Sport Football (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sky Sport Football (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/239.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sport (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sport (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/240.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sky Sport Mix (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sky Sport Mix (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/241.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sky Sport Racing (Thailand)  
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sky Sport Racing (Thailand)  
 https://6395online.com:8443/live/lala91@msn.com/736984/242.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sport (Thailand)  
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sport (Thailand)  
 https://6395online.com:8443/live/lala91@msn.com/736984/243.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,BT Sport 1 (Thailand)  
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,BT Sport 1 (Thailand)  
 https://6395online.com:8443/live/lala91@msn.com/736984/244.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,BT Sport 2 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,BT Sport 2 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/245.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,BT Sport 3 (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,BT Sport 3 (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/246.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sport (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sport (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/247.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,EUROSPORT 1 (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,EUROSPORT 1 (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/248.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,EUROSPORT 2 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,EUROSPORT 2 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/249.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,250 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,250 
 https://6395online.com:8443/live/lala91@msn.com/736984/250.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,251 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,251 
 https://6395online.com:8443/live/lala91@msn.com/736984/251.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,252 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,252 
 https://6395online.com:8443/live/lala91@msn.com/736984/252.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,253 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,253 
 https://6395online.com:8443/live/lala91@msn.com/736984/253.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,254 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,254 
 https://6395online.com:8443/live/lala91@msn.com/736984/254.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,255 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,255 
 https://6395online.com:8443/live/lala91@msn.com/736984/255.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,256 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,256 
 https://6395online.com:8443/live/lala91@msn.com/736984/256.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , ASTRO SPORT 1 (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , ASTRO SPORT 1 (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/257.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,ASTRO SPORT 2 (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,ASTRO SPORT 2 (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/258.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,ASTRO SPORT 3 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,ASTRO SPORT 3 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/259.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,ASTRO SPORT 4 (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,ASTRO SPORT 4 (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/260.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,SPORT TV 1 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,SPORT TV 1 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/261.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,SPORT TV 2 (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,SPORT TV 2 (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/262.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,SPORT TV 3 (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,SPORT TV 3 (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/263.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,SPORT TV 4 (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,SPORT TV 4 (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/264.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,265 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,265 
 https://6395online.com:8443/live/lala91@msn.com/736984/265.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,266 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,266 
 https://6395online.com:8443/live/lala91@msn.com/736984/266.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,267 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,267 
 https://6395online.com:8443/live/lala91@msn.com/736984/267.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,268 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,268 
 https://6395online.com:8443/live/lala91@msn.com/736984/268.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,269 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,269 
 https://6395online.com:8443/live/lala91@msn.com/736984/269.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,NATIONAL GEOGRAPHIC (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,NATIONAL GEOGRAPHIC (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/270.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,271 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,271 
 https://6395online.com:8443/live/lala91@msn.com/736984/271.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , LOVE NATURE (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" , LOVE NATURE (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/272.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,273 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,273 
 https://6395online.com:8443/live/lala91@msn.com/736984/273.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,DISCOVERY ASIA (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,DISCOVERY ASIA (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/274.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,SPORT (Thailand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,SPORT (Thailand)
 https://6395online.com:8443/live/lala91@msn.com/736984/275.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,276 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,276 
 https://6395online.com:8443/live/lala91@msn.com/736984/276.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,HISTORY (Thailand) 
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,HISTORY (Thailand) 
 https://6395online.com:8443/live/lala91@msn.com/736984/277.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,278 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,278 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/278.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,279 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,279 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/279.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,280 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,280 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/280.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,BBC earth (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,BBC earth (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/281.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,282 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,282 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/282.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True SCI (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True SCI (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/283.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True LIFE (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True LIFE (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/284.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True WILD (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True WILD (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/285.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,286 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,286 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/286.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True FOOD (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True FOOD (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/287.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True afn (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,True afn (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/288.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,289 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,289 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/289.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,290 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,290 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/290.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,291 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,291 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/291.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,292 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,292 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/292.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,293 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,293 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/293.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,294 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,294 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/294.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,295 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,295 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/295.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,296 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,296 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/296.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sport (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,Sport (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/297.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,329 (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,329 (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/329.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,CNN (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,CNN (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/299.m3u8
-#EXTINF:-1 tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,TV5 MONDE (ThaiLand)
+#EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,TV5 MONDE (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/347.m3u8
