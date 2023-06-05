@@ -2976,3 +2976,13 @@ https://6395online.com:8443/live/lala91@msn.com/736984/329.m3u8
 https://6395online.com:8443/live/lala91@msn.com/736984/299.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://sohanews.sohacdn.com/k:2015/dt-viet-nam-doi-dau-voi-voi-rung-chim-ung-manh-ho-1432773474339/thai-lan-la-voi-malaysia-la-ho-viet-nam-la.jpg" group-title="THAILAND TV" ,TV5 MONDE (ThaiLand)
 https://6395online.com:8443/live/lala91@msn.com/736984/347.m3u8
+
+
+#EXTINF:-1 group-title="TEST",TrueSports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="TEST",True Premier Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
